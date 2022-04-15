@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-eric.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Printaro-GD/Printaro-GD.git
+git clone https://github.com/eaize/CoolTees.git
 ```
 2. Backend setting
 ```
